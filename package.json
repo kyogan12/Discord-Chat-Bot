@@ -1,0 +1,14 @@
+{
+  "name": "open-ai",
+  "version": "1.0.0",
+  "description": "",
+  "main": "openai.js",
+  "type": "module",
+  "scripts": {
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.1"
+  }
+}
