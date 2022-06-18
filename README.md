@@ -1,4 +1,4 @@
-#Discord chatbot using OpenAI API
+Discord chatbot using OpenAI API
 
 Wanted to make a discord bot that uses the text-davinci-002 engine.
 Works, but it's a bit spammy.
